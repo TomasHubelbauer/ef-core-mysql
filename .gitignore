@@ -1,0 +1,6 @@
+# .NET
+bin
+obj
+
+# SQLite
+*.db

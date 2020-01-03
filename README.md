@@ -38,3 +38,5 @@ I need to update this and then ask in the GitHub issue at
 https://github.com/aspnet/EntityFrameworkCore/issues/329
 whether the comment about column renames means the migration I was attempting
 there will now work.
+
+### Report IsoGit not being able to resolve the `master` ref in this repo

@@ -31,12 +31,6 @@ This repository demonstrates the problem.
 
 ## To-Do
 
-### Update to demonstrate the table rebuild issue
+### Retest now that SQLite table rebuilds have landed
 
-I failed to demonstrate the table rebuild issue I faced in my `habiter` repo.
-I need to update this and then ask in the GitHub issue at
 https://github.com/aspnet/EntityFrameworkCore/issues/329
-whether the comment about column renames means the migration I was attempting
-there will now work.
-
-### Report IsoGit not being able to resolve the `master` ref in this repo
